@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<ArrayOfTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Task>
+    <SenderMail>jenya.schulga@gmail.com</SenderMail>
+    <PasswordSenderMail>34ER34er</PasswordSenderMail>
+    <AdresseMails>
+      <string>liliyakharkovskaya@gmail.com</string>
+      <string>kremeneu@gmail.com</string>
+      <string>polina210199@mail.ru</string>
+    </AdresseMails>
+    <Subject>Тест номер какойто</Subject>
+    <Body>Ну выведу хоть дату пусть будет 11:55 PM</Body>
+    <Name>Новое задание 1</Name>
+    <PathAttachments />
+  </Task>
+</ArrayOfTask>
